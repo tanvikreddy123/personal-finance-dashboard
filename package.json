@@ -1,0 +1,40 @@
+{
+  "name": "personal-finance-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A modern personal finance dashboard built with React, Syncfusion, and Tailwind CSS.",
+  "author": "Tanvi Reddy <tanvikreddy@usf.edu>",
+  "dependencies": {
+    "@syncfusion/ej2-react-calendars": "^30.1.37",
+    "@syncfusion/ej2-react-charts": "^30.1.42",
+    "@syncfusion/ej2-react-grids": "^30.1.42",
+    "@syncfusion/ej2-react-inputs": "^30.1.40",
+    "@syncfusion/ej2-react-popups": "^30.1.42",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.30.1",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
