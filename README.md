@@ -63,6 +63,7 @@ The application will be available at `http://localhost:3000`.
 
 ## 📬 Contact
 
-Tanvi Reddy Kotha - [tanvikreddy123@gmail.com](mailto:tanvikreddy123@gmail.com)
-
-Project Link: [https://github.com/tanvikreddy123/personal-finance-dashboard](https://github.com/tanvikreddy123/personal-finance-dashboard)
+**Tanvi Reddy Kotha**
+*   **LinkedIn:** [www.linkedin.com/in/tanvikreddy](https://www.linkedin.com/in/tanvikreddy/)
+*   **Email:** [tanvikreddy123@gmail.com](mailto:tanvikreddy123@gmail.com)
+*   **Project Link:** [https://github.com/tanvikreddy123/personal-finance-dashboard](https://github.com/tanvikreddy123/personal-finance-dashboard)
