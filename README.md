@@ -1,6 +1,6 @@
 # FinDash - Personal Finance Dashboard
 
-### [View Live Demo](https://personal-finance-dashboard-ncorm42qb.vercel.app/)
+### [View Live Demo](https://personal-finance-dashboard-eegwawa0d.vercel.app/)
 
 
 
